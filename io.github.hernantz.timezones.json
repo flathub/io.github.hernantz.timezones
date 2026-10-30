@@ -75,8 +75,8 @@
         {
           "type": "git",
           "url": "https://github.com/hernantz/timezones.git",
-          "tag": "v1.0.0",
-          "commit": "064c04064e37b2004668aed5df9a34e39c9292a6"
+          "tag": "v1.1.0",
+          "commit": "d395e6fcb6e32e740985e5be68965a39402f324c"
         }
       ]
     }
